@@ -1,0 +1,15 @@
+current directory: /home/kaki/workspace/god-hub/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/home/kaki/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20181218-23888-157vkpp.rb extconf.rb
+creating Makefile
+
+current directory: /home/kaki/workspace/god-hub/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/kaki/workspace/god-hub/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/kaki/workspace/god-hub/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20181218-23888-gas3qc/bindex
