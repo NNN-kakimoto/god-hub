@@ -65,3 +65,4 @@ gem 'therubyracer'
 # Devise
 gem 'devise'
 gem 'omniauth-twitter'
+gem 'dotenv-rails', require: 'dotenv/rails-now'
